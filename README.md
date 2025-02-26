@@ -1,2 +1,2 @@
-# Guided8
-Guided 8 - Wallet
+# Guided5 Wallet
+Guided 5 - Wallet
